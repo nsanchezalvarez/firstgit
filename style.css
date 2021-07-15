@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+.contenedor {
+  max-width: 120px;
+  margin: 0 auto;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  padding: 50px;
+  margin: 10px;
+}
+
+h1 {
+  padding: 1em;
+  background-color: peru;
+  color: white;
+}
+p {
+  background-color: wheat;
+  color: #ffff;
+  padding: 2em;
+}
